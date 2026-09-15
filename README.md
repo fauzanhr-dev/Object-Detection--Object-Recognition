@@ -1,19 +1,9 @@
-
-<p align="center">
-  <img src="https://mojalab.com/content/images/size/w1440/2025/07/Person_and_face_Detection_2.webp" alt="AI Security Mascot" width="500"/>
-</p>
-
-
-
 # Real-Time Face Recognition and Liveness Detection
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 
 
 This project is a real-time video processing pipeline that performs face detection, recognition, and liveness detection on multiple video streams. It's designed to be robust and scalable, utilizing a multi-threaded architecture to handle I/O operations and stream processing concurrently.
-
-👉 **Read the full article on MojaLab:**  
-[https://mojalab.com/person-detection-and-face-recognition-with-liveness-detection-a-python-project-using-powerful-ai-models/](https://mojalab.com/person-detection-and-face-recognition-with-liveness-detection-a-python-project-using-powerful-ai-models/)
 
 ## Features
 
